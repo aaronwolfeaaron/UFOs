@@ -13,3 +13,4 @@ In the example below, I was able to enter that I wanted to only see UFO sighting
 ![](https://github.com/aaronwolfeaaron/UFOs/blob/main/static/images/TableFiltered.png)
 
 ## Summary
+One drawback of this design is that it is case-sensitive, so if you accidentally put "OR" to search for Oregon, for example, it will show zero results. If you instead enter "or," however, it will bring up three results. In the future, as this website is further developed, I would like to see two design elements added. For one, I would like to see a search filter for duration of the UFO sighting - the information is already found in the table, we just need a way to search for it. Secondly, I'd like to see a photo element added for any entries to which that applies. Some of the listings in the table reference a photo and I think it would be a helpful element for users to be able to view.  
